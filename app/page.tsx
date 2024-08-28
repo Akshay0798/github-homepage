@@ -2,6 +2,7 @@
 
 import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/HeroSection/Hero";
+import Productivity from "./Components/Productivity/Productivity";
 
 export default function Home() {
   return (
@@ -23,6 +24,9 @@ export default function Home() {
           </div>
           <div className="hero-section px-3">
             <Hero />
+          </div>
+          <div id='productivity' className='home-campaign-productivity px-4 pt-8 overflow-hidden'>
+            <Productivity/>
           </div>
         </div>
       </div>
