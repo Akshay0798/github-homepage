@@ -3,6 +3,8 @@
 import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/HeroSection/Hero";
 import Productivity from "./Components/Productivity/Productivity";
+import StickyNav from "./Components/Navbar/StickyNav";
+import Collaboration from "./Components/Collaboration.tsx/Collaboration";
 
 export default function Home() {
   return (
@@ -25,8 +27,12 @@ export default function Home() {
           <div className="hero-section px-3">
             <Hero />
           </div>
+          <StickyNav/>
           <div id='productivity' className='home-campaign-productivity px-4 pt-8 overflow-hidden'>
             <Productivity/>
+          </div>
+          <div id='collaboration' className='home-campaign-productivity px-4 pt-8  overflow-hidden'>
+            <Collaboration/>
           </div>
         </div>
       </div>
