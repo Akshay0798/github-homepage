@@ -89,7 +89,7 @@ const CodeSpace = (props: Props) => {
                     <span className='font-semibold text-[12px]'>Did you know?</span>
                 </div>
                 <h3 className="text-[#7ee787] mb-2 mt-3 lg:text-6xl md:text-5xl text-3xl font-medium">22% increase</h3>
-                <p className="mb-3 md:text-xl text-base font-medium text-white">in developer productivity <br /> after three years with GitHub<sup>1</sup></p>
+                <p className="mb-3 md:text-xl text-base font-medium text-white">in developer productivity <br /> after three years with GitHub</p>
             </div>
         </motion.div>
     </div>

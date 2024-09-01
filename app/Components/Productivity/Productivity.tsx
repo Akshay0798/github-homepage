@@ -66,10 +66,10 @@ const Productivity = (props: Props) => {
             style={{ transitionDelay: "300ms" }}
           >
             <span className="text-[#7ee787]">
-              Accelerate high-quality software development.
+              Accelerate innovation.
             </span>
-            Our AI-powered platform drives innovation with tools that boost
-            developer velocity.
+            <br />
+            Our AI-powered platform increases the pace of software development.
           </motion.h3>
         </div>
       </div>
