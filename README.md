@@ -20,17 +20,21 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Welcome to My GitHub Homepage!
-This repository showcases my personal GitHub homepage, built using Next.js and TypeScript.
+# Welcome to My GitHub Homepage!
 
-Features
-Fast and Efficient: Leveraging Next.js's server-side rendering capabilities for optimal performance.
-Type Safety: Utilizing TypeScript to ensure type safety and enhance development productivity.
-Responsive Design: The homepage is designed to be fully responsive, providing a seamless experience across devices.
-Easy Navigation: User-friendly layout for easy access to my projects, skills, and contact information.
+## Features
 
-Technologies Used
-Next.js: A powerful React framework for building server-rendered applications.
-TypeScript: A superset of JavaScript that adds static types, making the code more predictable and easier to maintain.
-CSS Modules: For styling components with scoped styles, ensuring modular and maintainable code.
+- **Fast and Efficient**: Leveraging Next.js's server-side rendering capabilities for optimal performance.
+- **Type Safety**: Utilizing TypeScript to ensure type safety and enhance development productivity.
+
+## Technologies Used
+
+### Next.js
+A powerful React framework for building server-rendered applications.
+
+### TypeScript
+A superset of JavaScript that adds static types, making the code more predictable and easier to maintain.
+
+### CSS Modules
+For styling components with scoped styles, ensuring modular and maintainable code.
 
